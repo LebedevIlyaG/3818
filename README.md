@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/LebedevIlyaG/3818.svg?branch=master)](https://travis-ci.org/LebedevIlyaG/3818)
+
 # 381808-1
 В этом репозитории будут собраны полезные сведения, важная информация, обсуждения и прочее
 
