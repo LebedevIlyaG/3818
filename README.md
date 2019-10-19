@@ -6,7 +6,7 @@
 
 # Полезные ссылки:
 
-Шаблон первой лабораторной работы: [https://github.com/LebedevIlyaG/mp2-lab1-set]
+Шаблон первой лабораторной работы: [https://github.com/UNN-ITMM-Software/mp2-lab1-set]
 
 Страница курса: [http://www.itmm.unn.ru/courses/algoritmy-i-struktury-dannyh]
 
