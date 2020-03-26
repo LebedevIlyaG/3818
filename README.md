@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/LebedevIlyaG/3818.svg?branch=master)](https://travis-ci.org/LebedevIlyaG/3818)
 
+[![Gitter](https://badges.gitter.im/LebedevOrg/3818.svg)](https://gitter.im/LebedevOrg/3818?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # 381808-1
 В этом репозитории будут собраны полезные сведения, важная информация, обсуждения и прочее
 
